@@ -5,16 +5,15 @@ header {
     background-color: #333;
     color: white;
     padding: 20px;
-    margin: 50px;
 }
 section {
     background-color: #fff;
     padding: 10px;
-    margin-top: 100px;
 }
 footer {
     background-color: #333;
     color: white;
     padding: 10px;
     margin-top: 20px;
+    text-align: center;
 }
